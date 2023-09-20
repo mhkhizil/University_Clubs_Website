@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.2",
+    "hover.css": "^2.3.2",
+    "imagehover.css": "^2.0.0"
+  }
+}
